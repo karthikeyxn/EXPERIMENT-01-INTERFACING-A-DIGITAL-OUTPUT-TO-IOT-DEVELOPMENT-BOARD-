@@ -65,7 +65,9 @@ The main features of LPC2148 include the following.
 12. connect the stm nucleo board and click on run 
 ![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
 
-## STM 32 CUBE PROGRAM :
+## OUTPUT  :
+ ![image](https://github.com/user-attachments/assets/5b1c1d85-3bd9-4ab3-92fa-61178f3cab31)
+ ## STM 32 CUBE PROGRAM :
 ~~~
 while (1)
   {
@@ -75,7 +77,5 @@ while (1)
 	  HAL_Delay(1000);
   }
 ~~~
-## OUTPUT  :
- ![image](https://github.com/user-attachments/assets/5b1c1d85-3bd9-4ab3-92fa-61178f3cab31)
 ## Result :
 Interfacing a digital output with ARM microcontroller based IOT development is executed and the results are verified.
